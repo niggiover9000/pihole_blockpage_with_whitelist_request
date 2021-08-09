@@ -3,7 +3,7 @@ Custom Pi-hole blockpage with a button to send a request (via mail) to whitelist
 
 |Simple:|Materialize:| 
 |:-------------------------:|:-------------------------:|
-|<img src="https://user-images.githubusercontent.com/6975702/128698855-03cb2097-2542-41f1-b51a-96543a31ec67.png" height="200">|<img src="https://user-images.githubusercontent.com/6975702/128746098-681651b2-b162-4a13-be72-cbb9caf6a369.png" height="200">|
+|<img src="https://user-images.githubusercontent.com/6975702/128698855-03cb2097-2542-41f1-b51a-96543a31ec67.png">|<img src="https://user-images.githubusercontent.com/6975702/128746098-681651b2-b162-4a13-be72-cbb9caf6a369.png">|
 
 
 
