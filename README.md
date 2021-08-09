@@ -31,7 +31,7 @@ Create your custom blockpage
 ```
 nano /var/www/html/pihole/simple-block.php
 ```
-Code your own blockpage or use my example "simple_block.php" or "block_materialize.php" blockpage, to use the whitelist request feature, change the "our@mail.xyz" to your email.
+Code your own blockpage or use my example "simple_block.php" or "block_materialize.php" blockpage, to use the whitelist request feature, change the "your@mail.xyz" to your email.
 simple_block.php:
 ```
 <html>
