@@ -4,7 +4,7 @@ Custom Pi-hole blockpage with a button to send a request (via mail) to whitelist
 This project is based on this video: https://www.youtube.com/watch?v=pHjCO1zxpMA which explains how to set up a custom blockpage for pi-hole.
 After setting up my custom blockpage, I've thaught it would be cool to give my family the opportunity to reqeust whitelisting a domain they can't reach.
 
-##Instructions:
+## Instructions:
 Add the line BLOCKINGMODE=IP to the pihole-FTL.conf, without that pi-hole will not load a blocking page
 ```
 nano /etc/pihole/pihole-FTL.conf
@@ -15,7 +15,7 @@ change the server.error-handler-404 value to "/pihole/your_block_page.php"
 
 ```
 nano /etc/lighttpd/lighttpd.conf
-server.error-handler-404    = "/pihole/block.php"
+server.error-handler-404    = "/pihole/simple-block.php"
 ```
 Restart the lighttpd service
 ```
