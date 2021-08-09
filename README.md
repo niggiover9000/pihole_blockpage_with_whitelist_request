@@ -2,8 +2,8 @@
 Custom Pi-hole blockpage with a button to send a request (via mail) to whitelist the blocked domain.
 <img src="https://user-images.githubusercontent.com/6975702/128698855-03cb2097-2542-41f1-b51a-96543a31ec67.png" height="300">
 
-This project is based on this video: https://www.youtube.com/watch?v=pHjCO1zxpMA which explains how to set up a custom blockpage for pi-hole.
-After setting up my custom blockpage, I've thaught it would be cool to give my family the opportunity to reqeust whitelisting a domain they can't reach.
+This project is inspired by this video: https://www.youtube.com/watch?v=pHjCO1zxpMA which explains how to set up a custom blockpage for pi-hole.
+After setting up a custom blockpage, I've thaught it would be cool to give my family the opportunity to reqeust whitelisting a domain they can't reach.
 
 ## Instructions:
 Add the line BLOCKINGMODE=IP to the pihole-FTL.conf, without that pi-hole will not load a blocking page
