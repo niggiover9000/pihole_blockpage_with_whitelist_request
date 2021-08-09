@@ -1,6 +1,9 @@
 # Pi-hole: custom blockpage with whitelist request button
 Custom Pi-hole blockpage with a button to send a request (via mail) to whitelist the blocked domain.
-<img src="https://user-images.githubusercontent.com/6975702/128698855-03cb2097-2542-41f1-b51a-96543a31ec67.png" height="300">
+<img src="https://user-images.githubusercontent.com/6975702/128698855-03cb2097-2542-41f1-b51a-96543a31ec67.png" height="250">
+<img src="https://user-images.githubusercontent.com/6975702/128746037-1a3ddd8d-5f94-4d49-89a4-fb437512c383.png" height=250">
+
+![grafik](https://user-images.githubusercontent.com/6975702/128746098-681651b2-b162-4a13-be72-cbb9caf6a369.png)
 
 This project is inspired by this video: https://www.youtube.com/watch?v=pHjCO1zxpMA which explains how to set up a custom blockpage for pi-hole.
 After setting up a custom blockpage, I've thaught it would be cool to give my family the opportunity to reqeust whitelisting a domain they can't reach.
